@@ -1,0 +1,2 @@
+content smbwget chrome/
+overlay	chrome://browser/content/browser.xul	chrome://smbwget/content/smbwget.xul
